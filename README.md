@@ -1,3 +1,3 @@
-Own version of a flamework multiplace setup
+Version of a flamework multiplace setup
 
-Inspiration from [Imkalrbx](https://github.com/imkalrbx/rbxts-multiplace-setup-flamework)
+Started this from: [Imkalrbx](https://github.com/imkalrbx/rbxts-multiplace-setup-flamework)'s template
