@@ -1,4 +1,4 @@
-export const DEFAULT_DATA = {
+export const DEFAULT_DATA_TEMPLATE = {
   profile: {
     coins: 100,
     gems: 100,
